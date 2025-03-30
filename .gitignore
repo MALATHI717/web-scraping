@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+env/
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+config.ini
+secrets.json
+
+# Scraped data files
+*.csv
+*.json
+*.xlsx
+data/
+output/
+logs/
+
+# Log files
+*.log
+debug.log
+scraping.log
